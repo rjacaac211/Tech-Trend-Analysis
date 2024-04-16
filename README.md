@@ -14,4 +14,4 @@ This repository contains notebooks and documentation for analyzing tech trends u
 
 4. **Data_Visualization.ipynb**: Visualizations are created to depict the distribution of data, relationships between features, composition of data, and comparisons.
 
-5. **Tech Trend Analysis.pdf**: A presentation summarizing the analysis conducted in the previous notebooks. It includes an executive summary, methodology, results with visualizations and a dashboard, discussion of findings and implications, and a conclusion. An appendix provides additional details if needed.
+5. **Tech Trend Analytics.pdf**: A presentation summarizing the analysis conducted in the previous notebooks. It includes an executive summary, methodology, results with visualizations and a dashboard, discussion of findings and implications, and a conclusion. An appendix provides additional details if needed.

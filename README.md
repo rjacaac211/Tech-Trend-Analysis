@@ -6,6 +6,12 @@ Welcome to the Tech Trend Analysis repository! This project focuses on analyzing
 
 ## Contents
 
+### 1_Data_Collectinon_Using_API.ipynb
+
+
+### 2_Web_Scraping
+
+
 ### 3_Survey_Dataset_Exploration.ipynb
 
 This notebook serves as the starting point for our analysis. It explores the survey dataset in detail, performing the following tasks:

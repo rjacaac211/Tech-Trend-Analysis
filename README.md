@@ -6,7 +6,7 @@ Welcome to the Tech Trend Analysis repository! This project focuses on analyzing
 
 ## Contents
 
-### Survey_Dataset_Exploration.ipynb
+### 3_Survey_Dataset_Exploration.ipynb
 
 This notebook serves as the starting point for our analysis. It explores the survey dataset in detail, performing the following tasks:
 
@@ -16,7 +16,7 @@ This notebook serves as the starting point for our analysis. It explores the sur
 - Calculating the mean age of survey participants to understand the age distribution.
 - Identifying the number of unique countries represented in the dataset to gauge geographical diversity.
 
-### Data_Wrangling.ipynb
+### 4_Data_Wrangling.ipynb
 
 In this notebook, we clean and prepare the dataset for analysis. The data wrangling process involves:
 
@@ -24,7 +24,7 @@ In this notebook, we clean and prepare the dataset for analysis. The data wrangl
 - Handling missing values through imputation techniques to prevent bias in analysis.
 - Normalizing the data to bring consistency and standardization, if necessary.
 
-### Exploratory_Data_Analysis.ipynb
+### 5_Exploratory_Data_Analysis.ipynb
 
 The exploratory data analysis (EDA) notebook dives deep into understanding the dataset's characteristics. It includes:
 
@@ -33,7 +33,7 @@ The exploratory data analysis (EDA) notebook dives deep into understanding the d
 - Removing outliers, if necessary, to ensure accurate analysis.
 - Examining correlations between variables to understand relationships and potential dependencies.
 
-### Data_Visualization.ipynb
+### 6_Data_Visualization.ipynb
 
 This notebook focuses on visualizing the dataset to extract meaningful insights. It includes:
 

@@ -8,9 +8,23 @@ Welcome to the Tech Trend Analysis repository! This project focuses on analyzing
 
 ### 1_Data_Collectinon_Using_API.ipynb
 
+This notebook demonstrates how to collect data using an API. The main tasks include:
 
-### 2_Web_Scraping
+- Importing required libraries such as `pandas` and `json`.
+- Defining a function `get_number_of_jobs_T(technology)` to count the number of job postings for a specific technology by reading data from a JSON file.
+- Defining a function `get_number_of_jobs_L(location)` to count the number of job postings for a specific location by reading data from a JSON file.
+- Creating a list of locations and writing the number of job postings for each location to an Excel file using `openpyxl`.
+- Creating a list of technologies and writing the number of job postings for each technology to an Excel file using `openpyxl`.
 
+### 2_Web_Scraping.ipynb
+
+This notebook focuses on web scraping to collect data on programming languages and their corresponding average annual salaries. The main tasks include:
+
+- Importing necessary libraries such as `BeautifulSoup` and `requests`.
+- Fetching HTML content from a URL containing a table of programming languages and salaries.
+- Parsing the HTML content to extract language names and their average annual salaries.
+- Printing the extracted data in a formatted manner.
+- Saving the extracted data to a CSV file named `popular-languages.csv`.
 
 ### 3_Survey_Dataset_Exploration.ipynb
 

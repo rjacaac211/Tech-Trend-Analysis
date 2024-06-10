@@ -6,7 +6,7 @@ Welcome to the Tech Trend Analysis repository! This project focuses on analyzing
 
 ## Contents
 
-### 1_Data_Collectinon_Using_API.ipynb
+### 1_Data_Collection_Using_API.ipynb
 
 This notebook demonstrates how to collect data using an API. The main tasks include:
 

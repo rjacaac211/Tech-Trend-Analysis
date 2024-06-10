@@ -64,7 +64,7 @@ This notebook focuses on visualizing the dataset to extract meaningful insights.
 
 ### 7_Dashboard
 
-This folder contains the link of the dashboard and the data needed for creating it.
+This folder includes a link to the dashboard along with the data necessary for its creation.
 
 There are 3 tabs in this dashboard:
   - Current Technology Usage: This tab visualizes the programming languages, databases, platforms, and web frameworks respondents currently work with.

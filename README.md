@@ -64,11 +64,12 @@ This notebook focuses on visualizing the dataset to extract meaningful insights.
 
 ### 7_Dashboard
 
-This folder contains the link of the dashboard and the data needed for creating it
+This folder contains the link of the dashboard and the data needed for creating it.
 
--
--
-
+There are 3 tabs in this dashboard:
+  - Current Technology Usage: This tab visualizes the programming languages, databases, platforms, and web frameworks respondents currently work with.
+  - Future Technology Usage: This tab shows the programming languages, databases, platforms, and web frameworks respondents desire to work with in the next year.
+  - Demographics: This tab provides demographic insights including respondent count by gender, age, country, and formal education level.
 
 ### Tech Trend Analysis.pdf
 

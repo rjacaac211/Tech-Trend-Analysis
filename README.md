@@ -62,6 +62,14 @@ This notebook focuses on visualizing the dataset to extract meaningful insights.
 - Visualizing the distribution of data, relationships between variables, composition of data, and comparisons across different categories.
 - Closing the database connection after visualization to ensure data security.
 
+### 7_Dashboard
+
+This folder contains the link of the dashboard and the data needed for creating it
+
+-
+-
+
+
 ### Tech Trend Analysis.pdf
 
 This document provides a comprehensive overview of the analysis conducted in the previous notebooks. It includes:
